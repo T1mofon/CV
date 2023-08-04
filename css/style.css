@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2300px;
+  top: 2321px;
   left: -40px;
 }
 .contacts h4{
@@ -842,7 +842,7 @@ margin: 1px;
   background-color: white;
   position: relative;
   width: 400px;
-  height: 650px;
+  height: 660px;
   margin-left: 0px;
   top: -650px;
 }
@@ -887,7 +887,7 @@ width: 305px;
   top: -140px;
 }
 .education{
-  height: 500px;
+  height: 540px;
   background-color: white;
   position: relative;
   width: 400px;
@@ -914,19 +914,21 @@ width: 305px;
   position: relative;
   left: 235px;
   top: -15px;
+  transition-property: none;
 }
 
 .sertificate_button_2{
   position: relative;
   left: 225px;
   top: 20px;
+  transition-property: none;
 }
 
 .footer{
   background-color: white;
   position: relative;
   width: 400px;
-  top: -150px;
+  top: -100px;
   left: 0px;
 }
 .pdf_icon{
