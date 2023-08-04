@@ -823,7 +823,7 @@ margin: 1px;
   width: 400px;
   height: 640px;
   margin-left: 0px;
-  top: -640px;
+  top: -650px;
 }
 .hard_skills h3{
   position: relative;
@@ -833,11 +833,11 @@ margin: 1px;
 
 .pills{
   position: relative;
-  width: 296px;
+  width: 300px;
   
 }
 .Pills{
-width: 300px;
+width: 304px;
 }
 .experience{
   position: relative;
@@ -928,6 +928,7 @@ width: 300px;
 .languages ul{
   position: relative;
   top: 30px;
+  left: 100px;
 }
 
 
