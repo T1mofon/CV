@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2495px;
+  top: 2515px;
   left: -40px;
 }
 .contacts h4{
@@ -808,7 +808,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2494px;
+  top: 2514px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -866,7 +866,7 @@ width: 305px;
   height: 1100px;
   border-radius: 0px;
   background-color: white;
-  top: -420px;
+  top: -410px;
   margin: 0px;
 }
 .experience h3{
@@ -946,7 +946,7 @@ width: 305px;
   position:absolute;
   height: 200px;
   width: 400px;
-  top: 2690px;
+  top: 2700px;
   left: -40px;
   background-color:rgb(57, 87, 120);
 }
