@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2321px;
+  top: 2300px;
   left: -40px;
 }
 .contacts h4{
@@ -808,7 +808,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2320px;
+  top: 2299px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -928,7 +928,7 @@ width: 305px;
   background-color: white;
   position: relative;
   width: 400px;
-  top: -100px;
+  top: -230px;
   left: 0px;
 }
 .pdf_icon{
@@ -946,12 +946,12 @@ width: 305px;
 }
 .languages h4{
   position: relative;
-  top: 25px;
+  top: 35px;
 }
 .languages ul{
   width: 200px;
   position: relative;
-  top: 25px;
+  top: 35px;
   left: 95px;
 }
 .languages ul li{
