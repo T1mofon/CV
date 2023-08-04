@@ -744,7 +744,7 @@ margin: 1px;
   top: 0px;
   width: 400px;
   background-color:rgb(57, 87, 120);
-  height: 2500px;
+  height: 2300px;
   flex-direction: column;
   align-items: center;
   margin-left: 0px;
@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2290px;
+  top: 2542px;
   left: -40px;
 }
 .contacts h4{
@@ -808,7 +808,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2289px;
+  top: 2540px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -892,7 +892,7 @@ width: 305px;
   position: relative;
   width: 400px;
   left: -50px;
-  top:-385px;
+  top:-150px;
 }
 .education h3{
   position: relative;
@@ -928,7 +928,7 @@ width: 305px;
   background-color: white;
   position: relative;
   width: 400px;
-  top: -200px;
+  top: 30px;
   left: 0px;
 }
 .pdf_icon{
@@ -936,11 +936,17 @@ width: 305px;
   left: 0px;
   top:-35px;
 }
+.pdf_icon a{
+  position: relative;
+  left: 350px;
+
+}
+
 .languages{
   position:absolute;
   height: 200px;
   width: 400px;
-  top: 2530px;
+  top: 2730px;
   left: -40px;
   background-color:rgb(57, 87, 120);
 }
