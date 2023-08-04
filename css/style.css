@@ -695,7 +695,11 @@ margin: 1px;
 
 @media screen and (max-width: 700px)  
 {
+.html{
+  width: 350px;
+}
 .body{
+  width: 300px;
   padding: 0px;
   margin: 0px;
   overflow-x: hidden;
@@ -819,7 +823,7 @@ margin: 1px;
   width: 350px;
   height: 680px;
   margin-left: 10px;
-  top: -630px;
+  top: -610px;
 }
 .hard_skills h3{
   position: relative;
@@ -838,7 +842,7 @@ margin: 1px;
   height: 1000px;
   border-radius: 0px;
   background-color: white;
-  top: -460px;
+  top: -430px;
   margin-left: 10px;
 }
 .experience h3{
@@ -864,7 +868,7 @@ margin: 1px;
   position: relative;
   width: 350px;
   left: -40px;
-  top:-330px;
+  top:-300px;
 }
 .education h3{
   position: relative;
