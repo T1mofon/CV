@@ -695,7 +695,7 @@ margin: 1px;
 
 @media screen and (max-width: 700px)  
 {
-  .animated {
+  .container {
 		/*CSS transitions*/
 		-o-transition-property: none !important;
 		-moz-transition-property: none !important;
@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2515px;
+  top: 2500px;
   left: -40px;
   height: 180px;
 }
@@ -809,7 +809,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2514px;
+  top: 2499px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -917,38 +917,8 @@ width: 305px;
   top: -15px;
   display: inline-block;
   transition: none !important;
+  pointer-events: none;
 }
-
-.sertificate_button a{
-	width:80px;
-	height:20px;
-	position:absolute;
-	border-radius:10px;
-	text-align:center;
-	background-color:#395778;
-	text-decoration:none !important;
-	color:#f1f1f1;
-	transition: none !important;
-}
-	
-
-.sertificate_button  :hover{
-	-webkit-transform: none !important;
-	-ms-transform: none !important;
-	transform: none !important;
-	transition: none !important;
-	text-decoration:none !important;
-	color:#395778;
-	background-color:#f3f1f1;
-}	
-
-
-
-
-
-
-
-
 
 .sertificate_button_2{
   position: relative;
