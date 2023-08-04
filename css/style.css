@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2522px;
+  top: 2532px;
   left: -40px;
 }
 .contacts h4{
@@ -808,7 +808,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2520px;
+  top: 2530px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -863,7 +863,7 @@ width: 305px;
 .experience{
   position: relative;
   width: 400px;
-  height: 940px;
+  height: 1000px;
   border-radius: 0px;
   background-color: white;
   top: -500px;
