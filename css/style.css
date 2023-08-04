@@ -550,7 +550,7 @@ margin: 1px;
 .sertificate_button{
 	position:absolute;
 	left:415px;
-	margin-top: 2px;
+	top: 7px;
 	display: inline-block;
 	transition: all 0.4s ease;
 }
@@ -585,7 +585,7 @@ margin: 1px;
 	position:absolute;
 	border-radius:10px;
 	left:408px;
-	margin-top: 20px;
+	top: 25px;
 	display: inline-block; 
 	
 }
@@ -695,6 +695,27 @@ margin: 1px;
 
 @media screen and (max-width: 700px)  
 {
+  .animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+
 .html{
   width: 300px;
 }
@@ -866,12 +887,12 @@ width: 304px;
   top: -100px;
 }
 .education{
-  height: 480px;
+  height: 500px;
   background-color: white;
   position: relative;
   width: 400px;
   left: -50px;
-  top:-395px;
+  top:-385px;
 }
 .education h3{
   position: relative;
@@ -880,8 +901,8 @@ width: 304px;
 .courses{
   position: relative;
   top: 30px;
-  width: 340px;
-  left: 30px;
+  width: 335px;
+  left: 35px;
 }
 .courses p{
   margin-top: 0px;
@@ -891,14 +912,14 @@ width: 304px;
 }
 .sertificate_button{
   position: relative;
-  left: 50px;
-  top: 42px;
+  left: 235px;
+  top: -15px;
 }
 
 .sertificate_button_2{
   position: relative;
   left: 225px;
-  top: 137px;
+  top: 20px;
 }
 
 .footer{
