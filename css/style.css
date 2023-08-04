@@ -723,7 +723,7 @@ margin: 1px;
   top: 0px;
   width: 400px;
   background-color:rgb(57, 87, 120);
-  min-height: 1000px;
+  height: 3000px;
   flex-direction: column;
   align-items: center;
   margin-left: 0px;
@@ -747,12 +747,12 @@ margin: 1px;
 }
 .soft_skills{
   width: 400px;
-  height: 300px;
+  height: 200px;
   background-color:rgb(57, 87, 120);
   position: relative;
   left: 0px;
   margin-left: 0px;
-  top: 760px;
+  top: 630px;
 }
 .soft_skills h4{
   position: relative;
@@ -771,7 +771,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2352px;
+  top: 2255px;
   left: -40px;
 }
 .contacts h4{
@@ -787,11 +787,11 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2350px;
-  width: 290px;
+  top: 2250px;
+  width: 310px;
   left: -40px;
   height: 30px;
-  padding-left: 60px;
+  padding-left: 90px;
 }
 .container_right{
   background-color: transparent;
@@ -821,9 +821,9 @@ margin: 1px;
   background-color: white;
   position: relative;
   width: 400px;
-  height: 680px;
+  height: 640px;
   margin-left: 0px;
-  top: -600px;
+  top: -680px;
 }
 .hard_skills h3{
   position: relative;
@@ -845,7 +845,7 @@ width: 300px;
   height: 1000px;
   border-radius: 0px;
   background-color: white;
-  top: -410px;
+  top: -550px;
   margin-left: 0px;
 }
 .experience h3{
@@ -862,16 +862,16 @@ width: 300px;
   position: relative;
   width: 300px;
   height: 300px;
-  left: 0px;
+  left: 50px;
   top: -100px;
 }
 .education{
-  height: 560px;
+  height: 480px;
   background-color: white;
   position: relative;
-  width: 350px;
-  left: -40px;
-  top:-280px;
+  width: 400px;
+  left: -50px;
+  top:-430px;
 }
 .education h3{
   position: relative;
@@ -880,41 +880,44 @@ width: 300px;
 .courses{
   position: relative;
   top: 30px;
-  width: 295px;
-  left: 26px;
+  width: 340px;
+  left: 30px;
+}
+.courses p{
+  margin-top: 0px;
 }
 .courses li b{
-  margin: auto;
+  margin: 0px;
 }
 .sertificate_button{
   position: relative;
-  left: 0px;
-  top: 63px;
+  left: 50px;
+  top: 42px;
 }
 
 .sertificate_button_2{
   position: relative;
-  left: 111px;
-  top: 156px;
+  left: 225px;
+  top: 137px;
 }
 
 .footer{
   background-color: white;
   position: relative;
   width: 400px;
-  top: -145px;
-  left: 10px;
+  top: -260px;
+  left: 0px;
 }
 .pdf_icon{
   position: relative;
-  left: 0px;
+  left: 360px;
   top:-35px;
 }
 .languages{
   position:absolute;
   height: 150px;
   width: 400px;
-  top: 2730px;
+  top: 2530px;
   left: -40px;
   background-color:rgb(57, 87, 120);
 }
