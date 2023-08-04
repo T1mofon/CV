@@ -794,14 +794,15 @@ margin: 1px;
   width: 400px;
   top: 2515px;
   left: -40px;
+  height: 180px;
 }
 .contacts h4{
   position: relative;
-  top: 20px;
+  top: 35px;
 }
 .buttons{
   position: relative;
-  top:20px;
+  top:40px;
   left: -20px;
 }
 
@@ -902,7 +903,7 @@ width: 305px;
   position: relative;
   top: 30px;
   width: 335px;
-  left: 35px;
+  left: 30px;
 }
 .courses p{
   margin-top: 0px;
@@ -914,8 +915,40 @@ width: 305px;
   position: relative;
   left: 235px;
   top: -15px;
-  transition-property: none;
+  display: inline-block;
+  transition: none !important;
 }
+
+.sertificate_button a{
+	width:80px;
+	height:20px;
+	position:absolute;
+	border-radius:10px;
+	text-align:center;
+	background-color:#395778;
+	text-decoration:none !important;
+	color:#f1f1f1;
+	transition: none !important;
+}
+	
+
+.sertificate_button  :hover{
+	-webkit-transform: none !important;
+	-ms-transform: none !important;
+	transform: none !important;
+	transition: none !important;
+	text-decoration:none !important;
+	color:#395778;
+	background-color:#f3f1f1;
+}	
+
+
+
+
+
+
+
+
 
 .sertificate_button_2{
   position: relative;
