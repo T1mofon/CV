@@ -792,7 +792,7 @@ margin: 1px;
   background-color:rgb(57, 87, 120);
   position: relative;
   width: 400px;
-  top: 2300px;
+  top: 2290px;
   left: -40px;
 }
 .contacts h4{
@@ -808,7 +808,7 @@ margin: 1px;
 .email{
   background-color:rgb(57, 87, 120);
   position: relative;
-  top: 2299px;
+  top: 2289px;
   width: 310px;
   left: -40px;
   height: 30px;
@@ -928,7 +928,7 @@ width: 305px;
   background-color: white;
   position: relative;
   width: 400px;
-  top: -230px;
+  top: -200px;
   left: 0px;
 }
 .pdf_icon{
