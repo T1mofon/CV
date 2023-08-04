@@ -846,7 +846,9 @@ margin: 1px;
   top: 25px;
 }
 .text{
-  min-width: 35px;
+  position: relative;
+  width: 350px;
+  margin: 0px;
 }
 
 .PTphoto{
