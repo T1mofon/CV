@@ -752,7 +752,7 @@ margin: 1px;
   position: relative;
   left: 0px;
   margin-left: 0px;
-  top: 630px;
+  top: 650px;
 }
 .soft_skills h4{
   position: relative;
@@ -845,7 +845,7 @@ width: 304px;
   height: 1000px;
   border-radius: 0px;
   background-color: white;
-  top: -550px;
+  top: -510px;
   margin-left: 0px;
 }
 .experience h3{
@@ -926,9 +926,13 @@ width: 304px;
   top: 25px;
 }
 .languages ul{
+  width: 200px;
   position: relative;
   top: 30px;
   left: 100px;
+}
+.languages ul li{
+  width: 200px;
 }
 
 
