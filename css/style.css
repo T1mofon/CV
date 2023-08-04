@@ -866,7 +866,7 @@ width: 305px;
   height: 1100px;
   border-radius: 0px;
   background-color: white;
-  top: -440px;
+  top: -420px;
   margin: 0px;
 }
 .experience h3{
@@ -892,7 +892,7 @@ width: 305px;
   position: relative;
   width: 400px;
   left: -50px;
-  top:-270px;
+  top:-240px;
 }
 .education h3{
   position: relative;
@@ -928,7 +928,7 @@ width: 305px;
   background-color: white;
   position: relative;
   width: 400px;
-  top: -30px;
+  top: 0px;
   left: 0px;
 }
 .pdf_icon{
@@ -946,7 +946,7 @@ width: 305px;
   position:absolute;
   height: 200px;
   width: 400px;
-  top: 2670px;
+  top: 2690px;
   left: -40px;
   background-color:rgb(57, 87, 120);
 }
