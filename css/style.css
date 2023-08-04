@@ -723,7 +723,7 @@ margin: 1px;
   top: 0px;
   width: 400px;
   background-color:rgb(57, 87, 120);
-  height: 3000px;
+  height: 2800px;
   flex-direction: column;
   align-items: center;
   margin-left: 0px;
@@ -823,7 +823,7 @@ margin: 1px;
   width: 400px;
   height: 640px;
   margin-left: 0px;
-  top: -680px;
+  top: -640px;
 }
 .hard_skills h3{
   position: relative;
