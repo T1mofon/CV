@@ -693,7 +693,7 @@ margin: 1px;
 }
 /*Mobile*/
 
-@media screen and (max-width: 700px) and (hover: none) 
+@media screen and (max-width: 1200px) and (hover: none) 
 {
   
   .buttons{
@@ -917,7 +917,7 @@ width: 305px;
   left: 235px;
   top: -15px;
   }
-
+.sertificate_button  :hover{}
     
   
 
@@ -927,6 +927,7 @@ width: 305px;
   top: 20px;
   transition-property: none;
 }
+.sertificate_button_2  :hover{}
 
 .footer{
   background-color: white;
